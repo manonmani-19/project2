@@ -1,0 +1,67 @@
+.contact h3{
+	color: deeppink;
+	padding-left: 40px;
+	font-size: 23px;
+}
+.active{
+	background: #e8234a;
+	padding: 5px 8px;
+}
+.name{
+	margin-left: 50px;
+	height: 20px;
+	width: 300px;
+	background: lightgray;
+	border: none;
+	padding: 10px 15px;
+}
+.email{
+	margin-left: 52px;
+	height: 20px;
+	width: 300px;
+	background: lightgray;
+	border: none;
+	padding: 10px 15px;
+}
+
+.msg{
+    margin-left: 28px;
+	height: 100px;
+	width: 300px;
+	background: lightgray;
+	border: none;
+	padding: 10px 15px;
+	margin-bottom: 25px;
+	
+}
+.sky a{
+	text-decoration: none;
+	font-size: 23px;
+	background: deepskyblue;
+	height: 20px;
+	width: 300px;
+	border: none;
+	padding: 20px 90px;
+	margin-left: 150px;
+	margin-top: 15px;
+	color: whitesmoke;
+}
+
+.login{
+	padding-left: 20px;
+}
+label{
+	margin-top: 20px;
+	border: none;
+	padding: 10px 40px;
+}
+.footer{
+	color: whitesmoke;
+background-color: darkgray;
+padding: 2px 10px;
+
+}
+
+
+
+

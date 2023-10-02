@@ -1,0 +1,89 @@
+.our,h2{
+	color: deeppink;
+	padding-left: 20px;
+	
+}
+.active{
+	background: #e8234a;
+	padding: 5px 8px;
+}
+.box1{
+	width: 600px;
+	height: 220px;
+	background-color: lightgray;
+	margin-right: 50px;
+	padding-left: 20px;
+
+	padding-left: 30px;
+}
+.box1 h3{
+	color: deepskyblue;
+	font-size: 25px;
+}
+.box2{
+	width: 600px;
+	height: 220px;
+	background-color: lightgray;
+	padding-left: 30px;
+	
+}
+.box2 h3{
+	color: deepskyblue;
+	font-size: 25px;
+}
+.box3{
+	width: 600px;
+	height: 240px;
+	background-color: lightgray;
+	margin-top: 25px;
+	margin-right: 50px;
+	padding-left: 30px;
+
+}
+.box3 h3{
+	color: deepskyblue;
+	font-size: 25px;
+}
+.box4{
+	width: 600px;
+	height: 220px;
+	background-color: lightgray;
+	margin-top: 45px;
+	padding-left: 30px;
+}
+.box4 h3{
+	color: deepskyblue;
+	font-size: 25px;
+}
+
+.design1{
+
+	display: flex;
+	padding-left: 30px;
+	padding-bottom: 30px;
+
+}
+.design2{
+	display: flex;
+	padding-left: 30px;
+}
+.box3 a{
+	  background-color: #e8234a;
+      color: white;
+      margin-left: 450px;
+ padding: 15px;
+     
+}
+p{
+justify-content: space-between;
+padding-top: 0px;
+padding-bottom: 15px;
+padding-right: 20px;
+}
+.footer{
+background-color: darkgray;
+padding: 2px;
+
+}
+
+

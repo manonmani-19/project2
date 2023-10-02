@@ -1,0 +1,80 @@
+@media screen and (max-width: 400px){
+.header{
+     background-color: deeppink;
+}
+}
+body{
+	height: 100%px;
+	width: 100%;
+	margin: 0px;
+	font-family: sans-serif;
+}
+.header{
+
+	background: #e8234a;
+	padding-bottom: 30px;
+	padding-top: 30px;
+	color: white;
+	background-image: url(logo.png);
+	background-position: left;
+	background-repeat: no-repeat;
+	font-size: 25px;
+}
+@media screen and (max-width: 400px){
+	body{
+		background-color: #e8234a;
+	}
+}
+.nav{
+	height: 40px;
+	background-color: lightgray;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	margin-top:0px;
+	margin-left: 0px;
+	display: flex;
+}
+.nav a{
+	text-decoration: none;
+	background-color: deepskyblue;
+	padding:5px 20px;
+	margin-left:10px;
+	color: white;
+	font-size: 23px;
+}
+.nav a:hover{
+	background-color: #e8234a;
+	
+}
+.nav .active{
+	background-color: #e8234a;
+}
+.flex{
+	display: flex;
+	padding-left: 30px;
+}
+.box1 h3{
+	color: deeppink;
+	font-size: 25px;
+	font-family: sans-serif;
+}
+.box1 p{
+	width: 450px;
+	word-spacing: 5px;
+	text-shadow: color;
+	font-family: sans-serif;
+	
+}
+.box2 h3{
+	color: deepskyblue;
+	font-size: 25px;
+}
+.box2{
+	padding-left: 50px;
+}
+.footer{
+	color: whitesmoke;
+background-color: darkgray;
+padding: 2px 10px;
+
+}

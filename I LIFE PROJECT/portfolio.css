@@ -1,0 +1,55 @@
+
+.port{
+	display: flex;
+	width: 1000px;
+	height: 255;
+	flex: row;
+	justify-content: space-between;
+
+}
+.lio{
+	display: flex;
+	width: 1000px;
+	height: 255;
+	flex: row;
+	justify-content: space-between;
+	
+}
+.active{
+	background: #e8234a;
+	padding: 5px 8px;
+	}
+.port1 img{
+
+	padding-left: 10px;
+	margin-bottom: 50px;
+}
+.lio1 img{
+	padding-left: 10px;
+	margin-bottom: 20px;
+}
+
+.picture{
+	padding-left: 180px;
+
+}
+h2{
+	padding-left: 40px;
+	margin-bottom: 25px;
+}
+.footer{
+background-color: darkgray;
+padding: 2px;
+
+}
+.port1:hover{
+	transform: scale(1.2,1.2);
+	transition: 3s;
+
+}
+.lio1:hover{
+	transform: scale(1.2,1.2);
+	transition: 3s;
+	transition-timing-function: ease out;
+}
+

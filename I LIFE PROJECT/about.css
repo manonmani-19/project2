@@ -1,0 +1,48 @@
+body{
+	font-family: sans-serif;
+}
+.nav{
+	height: 40px;
+	background-color: lightgray;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	margin-top:0px;
+	margin-left: 0px;
+	display: flex;
+}
+.nav a{
+	background-color: deepskyblue;
+	padding: 10px;
+	margin-left:10px;
+	color: white;
+	font-size: 23px;
+}
+.nav a:hover{
+	background-color: #e8234a;
+}
+.nav .active{
+	background-color:  #e8234a;
+}
+.pink h3{
+	color: deeppink;
+	padding-left: 40px;
+}
+.blue p{
+	padding-left: 40px;
+}
+.pink p{
+	padding-left: 40px;
+
+}
+.blue h4{
+    color: deepskyblue;
+    padding-left: 40px;
+    font-size: 23px;
+}
+.footer{
+padding:10px 10px;
+color:black;
+background-color: darkgray;
+margin-top: 100px;
+margin-bottom:-10px;
+}
